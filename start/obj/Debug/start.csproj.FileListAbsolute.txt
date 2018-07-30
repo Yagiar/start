@@ -1,0 +1,10 @@
+C:\Users\habo2\source\repos\start\start\bin\Debug\start.exe.config
+C:\Users\habo2\source\repos\start\start\bin\Debug\start.exe
+C:\Users\habo2\source\repos\start\start\bin\Debug\start.pdb
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.csprojAssemblyReference.cache
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.Form1.resources
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.exe
+C:\Users\habo2\source\repos\start\start\obj\Debug\start.pdb
